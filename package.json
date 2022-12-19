@@ -1,0 +1,24 @@
+{
+  "name": "sodv2201-assignment2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluumann/SODV2201-Assignment2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluumann/SODV2201-Assignment2/issues"
+  },
+  "homepage": "https://github.com/bluumann/SODV2201-Assignment2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "proxy": "http://localhost:5000"
+}

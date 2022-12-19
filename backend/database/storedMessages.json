@@ -1,0 +1,52 @@
+{
+  "messages": [
+    {
+      "firstName": "Bugs",
+      "lastName": "Bunny",
+      "email": "bugsbunny@gmail.com",
+      "message": "Hi there, I'd like to enroll in 3 courses. Also, I'm a bunny"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "js123@email",
+      "message": "Hello, do you offer any courses on artificial intelligence?"
+    },
+    {
+      "firstName": "Stephen",
+      "lastName": "King",
+      "email": "horror@hotmail",
+      "message": "Who should I talk to about student loans?"
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Kosa",
+      "email": "peter@email.com",
+      "message": "dasfasgasgasg"
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Kosa",
+      "email": "otter@email.com",
+      "message": "qweqweqwrqwr"
+    },
+    {
+      "firstName": "eeee",
+      "lastName": "eeee",
+      "email": "eeee@email.com",
+      "message": "eeee"
+    },
+    {
+      "firstName": "yyy",
+      "lastName": "yyy",
+      "email": "yyy@email.ca",
+      "message": "123"
+    },
+    {
+      "firstName": "ooo",
+      "lastName": "ooo",
+      "email": "ooo@ooo.ca",
+      "message": "Yo!"
+    }
+  ]
+}
